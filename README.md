@@ -7,19 +7,25 @@ install python3
 <br>
 open terminal
 <br>
-```bash
+
+```terminal
 pip3 install discord
 ```
+
 <br>
-```bash
+
+```terminal
 pip3 install discord.py
 ```
+
 <br>
 Run the code
 <br>
-```bash
+
+```terminal
 python3 bot.py
 ```
+
 <br>
 Create a server
 <br>
