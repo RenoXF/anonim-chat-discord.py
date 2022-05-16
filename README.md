@@ -12,10 +12,12 @@ open terminal
 pip3 install discord
 ```
 
-<br>
-
 ```terminal
 pip3 install discord.py
+```
+edit bot.py
+```python
+client.run('Token Here')
 ```
 
 <br>
